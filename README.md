@@ -1,4 +1,4 @@
-# Pre-Trained-Backdoor-Attack
+# Pre-Trained Attacks
 
 **Pre-Trained Backdoor Attack** is a research-grade implementation aimed at exploring a critical and emerging threat vector in modern machine learning pipelines—**backdoor attacks embedded in pre-trained encoders**. This project demonstrates how adversaries can inject stealthy triggers during the pre-training phase of an encoder model and then exploit these vulnerabilities in downstream tasks without altering the architecture or parameters of target models.
 
